@@ -6,6 +6,3 @@ resources:
 replicas:
 - count: 3
   name: deployment
-images:
-- name: 335270644332.dkr.ecr.ap-northeast-1.amazonaws.com/staging-sample-app
-  newTag: 1073144190311dea2f3dcc3ae009beb3479eb10b
